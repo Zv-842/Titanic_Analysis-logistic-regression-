@@ -1,0 +1,3 @@
+https://asperbrothers.com/blog/logistic-regression-in-python/
+
+https://learn.theprogrammingfoundation.org/getting_started/intro_data_science/module4/?gclid=CjwKCAjw2rmWBhB4EiwAiJ0mtf_OGkm1jIbYoK3NILD0lPpIYyJpBpNW059ppJovRVhj_aEEkRQ5lBoCHdAQAvD_BwE
